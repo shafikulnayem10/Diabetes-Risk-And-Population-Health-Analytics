@@ -1,4 +1,5 @@
-# Diabetes Risk Analysis – Data Science Project
+#Diabetes Risk & Population Health Analytics
+Objective: Analyze demographic, lifestyle, and clinical factors associated with diabetes prevalence, identify high-risk population segments, and generate actionable, data-driven health insights.
 
 Introduction to Data Science (IDS) midterm project, **Section E, Group 10**, American International University-Bangladesh (AIUB), Fall 2026-27.
 
